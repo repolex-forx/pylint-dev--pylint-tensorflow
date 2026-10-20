@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "pylint-tensorflow",
+  "versions": [
+    {
+      "commit": "244dd47dc14e737b66e47e296b275fee1fc6a2ee",
+      "tag": "",
+      "parsed_at": "2026-10-20T22:20:51.386269+00:00"
+    }
+  ]
+}
